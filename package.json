@@ -1,0 +1,11 @@
+{
+  "name": "@albanianxrm/jsdoc",
+  "version": "1.0.0",
+  "description": "Writing javascript webresources for dataverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlbanianXrm",
+  "license": "MIT"
+}
