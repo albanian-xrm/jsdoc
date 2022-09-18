@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "AlbanianXrm",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/xrm": "^9.0.63"
+  }
 }
