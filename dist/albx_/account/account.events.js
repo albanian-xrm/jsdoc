@@ -1,0 +1,2 @@
+var AlbanianXrm=window.AlbanianXrm||{};!function(n){n.account=n.account||{},n.account.onLoad=function(n){var a=n.getFormContext().getAttribute("name");console.log(a.getValue)}}(AlbanianXrm);
+//# sourceMappingURL=account.events.js.map

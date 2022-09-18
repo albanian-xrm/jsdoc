@@ -1,0 +1,6 @@
+{
+    "sourceMap": {
+        "url": "{file}.map",
+        "includeSources": true
+    }
+}
